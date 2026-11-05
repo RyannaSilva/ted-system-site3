@@ -10,7 +10,7 @@ export const empresa = {
   valores: [
     {
       titulo: "Excelência técnica",
-      descricao: "Compromisso com código limpo, boas práticas de engenharia e entregas de alta qualidade."
+      descricao:  "Compromisso com código limpo, boas práticas de engenharia e entregas de alta qualidade."
     },
     {
       titulo: "Transparência e parceria",
