@@ -19,7 +19,11 @@ export const empresa = {
     {
       titulo: "Inovação responsável",
       descricao: "Adoção de novas tecnologias com foco em segurança, sustentabilidade e resultados reais."
-    }
+    },
+    {
+      titulo: "Segurança e confiança",
+      descricao: "Proteger dados e informações, garantindo privacidade e segurança em todos os projetos."
+    },
   ],
   publicoAlvo:
     "Pequenas e médias empresas (PMEs), startups e profissionais autônomos de diversos segmentos, como comércio, saúde, educação e serviços, que precisam de sistemas web, aplicativos e soluções de gestão personalizadas, além de organizações que buscam modernizar sistemas legados ou melhorar a gestão e a segurança de seus dados.",
@@ -55,6 +59,13 @@ export const empresa = {
       foto: "/images/amy.jpg",
       alt: "Foto de Amy Farrah Fowler",
       descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
-    }
+    },
+     {
+  nome: "Ryanna Silva",
+  cargo: "Desenvolvedora Full Stack",
+  foto: "/images/ryanna.jpg",
+  alt: "Foto de Ryanna Silva",
+  descricao: "Responsável pelo desenvolvimento de sistemas e aplicações web, contribuindo com soluções inovadoras e eficientes para atender às necessidades dos clientes."
+},
   ]
 };
